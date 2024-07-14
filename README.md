@@ -1,5 +1,5 @@
-install 
+Install 
 
-1.pip install numpy 
+pip install numpy 
 
 Copy code and run
