@@ -1,5 +1,7 @@
-Install 
+## Installation
 
-pip install numpy 
+Install the necessary tools using:
 
-Copy code and run
+```bash
+pip install numpy
+pip install 
